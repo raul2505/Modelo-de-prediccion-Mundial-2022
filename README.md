@@ -1,1 +1,1 @@
-# Modelo-de-prediccion-Mundial-2022
+# Modelo-simple-de-prediccion-Mundial-2022
